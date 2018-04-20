@@ -3,15 +3,15 @@
 
 ### Description :
 
-...
+Plugin pour insérer le partenaria Simplon
 
 ### Installation :
 
-...
+Utiliser procédure installation standard
 
 ### Utilisation :
 
-...
+insérer le short code [SimplonParteriat]
 
 ### Ressources :
 #### Déclaration du plugin :
