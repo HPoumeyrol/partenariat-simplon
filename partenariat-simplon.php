@@ -1,7 +1,5 @@
 <?php
 /*
-<?php
-/*
 Plugin Name: Simplon Partenaria
 Plugin URI: http://zero-plugin.com
 Description: Un plugin pour afficher un partenaria avec Simplon Co
